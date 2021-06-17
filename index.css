@@ -7,7 +7,7 @@ div {
     width: 170px;
 }
 
-#div1{
+* #div1{
     top: 60px;
     left: 100px;
     position: absolute;
@@ -31,3 +31,4 @@ input[type="button"]:hover{
     background-color: yellow;
     border: 1px solid;
 }
+
