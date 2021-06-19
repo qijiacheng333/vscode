@@ -1,3 +1,3 @@
 # 计算器
 
-仿Windows计算器实现功能
+利用 HTML+CSS+JavaScript仿Windows计算器实现其功能
